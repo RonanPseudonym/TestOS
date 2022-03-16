@@ -1,5 +1,5 @@
 ; MINIMAL BIOS PROGRAM
-; Copyright @em 2022
+; Copyright em 2022
 
 %define ENDL 0x0d, 0x0a ; NASM macro, so that you don't have to mess around
                         ; with cryptic ASCII stuff
